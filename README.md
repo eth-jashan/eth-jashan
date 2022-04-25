@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jashan_shetty" target="blank"><img src="https://img.shields.io/twitter/follow/jashan_shetty?logo=twitter&style=for-the-badge" alt="jashan_shetty" /></a> </p>
 
-- 🔭 I’m currently working on [Drepute](drepute.xyz)
+- 🔭 I’m currently working @ [Drepute](drepute.xyz)
 
 - 🌱 I’m currently learning and exploring **Ethereum Blockchain**
 
