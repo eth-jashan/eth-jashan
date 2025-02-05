@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jashan_shetty" target="blank"><img src="https://img.shields.io/twitter/follow/jashan_shetty?logo=twitter&style=for-the-badge" alt="jashan_shetty" /></a> </p>
 
-- 🔭 I’m currently working @ [Lxme](https://lxme.in)
+- 🔭 I’m currently working @ [Deepreel](https://deepreel.com)
 
 - 🌱 I’m currently learning and exploring **Ethereum Blockchain**
 
